@@ -162,7 +162,9 @@ p{
 /* MEDIA SECTION */
 
 @media(max-width:1028px) {
-
+.body{
+    text-align: center;
+    }
 .iphone6{
     position: static;
     transform: rotate(0deg);
